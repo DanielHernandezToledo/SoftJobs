@@ -1,0 +1,15 @@
+Error: JsonWebTokenError: jwt malformed
+Error: JsonWebTokenError: jwt malformed
+Error: JsonWebTokenError: invalid token
+Error: JsonWebTokenError: invalid token
+Error: JsonWebTokenError: invalid token
+Error: JsonWebTokenError: invalid token
+Error: [object Object]
+Error: [object Object]
+Error: [object Object]
+Error: [object Object]
+Error: [object Object]
+Error: El usuario ya existe.
+Error: El usuario ya existe.
+Error: invalid token
+Error: invalid token
